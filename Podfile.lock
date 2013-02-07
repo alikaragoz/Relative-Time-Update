@@ -1,0 +1,32 @@
+
+PODS:
+- FormatterKit (1.1.1):
+  - FormatterKit/AddressFormatter (= 1.1.1)
+  - FormatterKit/ArrayFormatter (= 1.1.1)
+  - FormatterKit/LocationFormatter (= 1.1.1)
+  - FormatterKit/OrdinalNumberFormatter (= 1.1.1)
+  - FormatterKit/TimeIntervalFormatter (= 1.1.1)
+  - FormatterKit/URLRequestFormatter (= 1.1.1)
+  - FormatterKit/UnitOfInformationFormatter (= 1.1.1)
+- FormatterKit/AddressFormatter (1.1.1)
+- FormatterKit/ArrayFormatter (1.1.1)
+- FormatterKit/LocationFormatter (1.1.1)
+- FormatterKit/OrdinalNumberFormatter (1.1.1)
+- FormatterKit/TimeIntervalFormatter (1.1.1)
+- FormatterKit/URLRequestFormatter (1.1.1)
+- FormatterKit/UnitOfInformationFormatter (1.1.1)
+
+DEPENDENCIES:
+- FormatterKit
+
+SPEC CHECKSUMS:
+  FormatterKit: b644b98d4495bdf11fc70f8f80867df5864eaf70
+  FormatterKit/AddressFormatter: b644b98d4495bdf11fc70f8f80867df5864eaf70
+  FormatterKit/ArrayFormatter: b644b98d4495bdf11fc70f8f80867df5864eaf70
+  FormatterKit/LocationFormatter: b644b98d4495bdf11fc70f8f80867df5864eaf70
+  FormatterKit/OrdinalNumberFormatter: b644b98d4495bdf11fc70f8f80867df5864eaf70
+  FormatterKit/TimeIntervalFormatter: b644b98d4495bdf11fc70f8f80867df5864eaf70
+  FormatterKit/URLRequestFormatter: b644b98d4495bdf11fc70f8f80867df5864eaf70
+  FormatterKit/UnitOfInformationFormatter: b644b98d4495bdf11fc70f8f80867df5864eaf70
+
+COCOAPODS: 0.16.1

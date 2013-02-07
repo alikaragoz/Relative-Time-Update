@@ -1,5 +1,5 @@
 //
-//  MCViewController.h
+//  MCTableViewController.h
 //  Relative Time Update
 //
 //  Created by Ali Karagoz on 07/02/13.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MCViewController : UIViewController
+@interface MCTableViewController : UITableViewController
+
+@property (strong, nonatomic) IBOutlet UIBarButtonItem *addButton;
 
 @end
