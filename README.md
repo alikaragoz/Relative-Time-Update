@@ -3,7 +3,7 @@ Simple project showing how to implement auto-updating relative date we can see i
 It uses @mattt's great [FormatterKit](https://github.com/mattt/FormatterKit) for time interval formatting.
 
 ## Preview
-![](screenshots/relative-time.png)
+![](screenshots/relative-time.gif)
 
 ## Contact
 
